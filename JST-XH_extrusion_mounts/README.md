@@ -15,8 +15,8 @@ Design idea came from Tehtsuo (Voron Discord), however these were drawn from scr
 
 ### Naming scheme
 - JST-XH-2-2 - two slots: both two-pin -- used as a disconnect for bed thermister
-- JST-XH-2-2-2 - three slots: all two-pin -- used as one-to-two power splitter for electronics bay fan
-- JST-XH-3-2-2 - three slots: three-pin followed by a pair of two-pin -- used as breakout for X and Y endstop with a common line
+- JST-XH-2-2-2 - three slots: all two-pin -- used as one-to-two power splitter for electronics bay fans
+- JST-XH-3-2-2 - three slots: three-pin followed by a pair of two-pin -- used as breakout for X and Y endstops sharing a common line (e.g. you used the XY endstop PCB for your Trident)
 - JST-XH-3-3-3-3-3-3-3-3 - eight slots: all three-pin -- used as a data bus for DS18B20 1wire temp sensors
 
 ### BOM
