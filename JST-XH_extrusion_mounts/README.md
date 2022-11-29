@@ -4,7 +4,7 @@ These mounts are for making a JST-XH splitter (1->2) or bus (1->many).
 
 ![jpg](Images/JST-XH-connectors.jpg)
 ![jpg](Images/JST-XH-connectors-bottom.jpg)
-![jpg](Images/JST-XH-3.3.3.3.3.3.3.3.jpg)
+![jpg](Images/JST-XH-3-3-3-3-3-3-3-3.jpg)
 
 ### Credit
 Design idea came from Tehtsuo (Voron Discord), however these were drawn from scratch in Fusion 360.
