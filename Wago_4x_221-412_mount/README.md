@@ -1,8 +1,8 @@
 ## Wago 4x 221-412 mount
 
-This mount is to use four Wagos on the Voron Trident bed t-frame instead of three. The fourth one allows you to wago between the thermal fuse and the bed heater instead of soldering or otherwise splicing.
+This mount is to use four Wagos on the Voron Trident bed t-frame instead of three. The fourth one allows you to use a Wago between the thermal fuse and the bed heater instead of soldering or otherwise splicing.
 
-![jpg](Images/Wago_4x_221-212-mount-in-place.jpg)
+![jpg](Images/Wago_4x_221-412-mount-in-place.jpg)
 
 ### Credit
 This is a modification of the original Voron CAD work.
